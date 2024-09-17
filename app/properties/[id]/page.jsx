@@ -3,7 +3,7 @@
 const PropertyPage = () => {
   return (
     <div>
-      Property Page
+      Add Properties
     </div>
   )
 }
